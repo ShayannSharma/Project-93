@@ -1,0 +1,15 @@
+#img{
+ height: 4cm;
+ width: 4cm;
+ margin-top: 10%;
+ margin-bottom: 4%;
+ background: white;
+}
+#user_name{
+    border-style:double ;
+   
+    margin-bottom: 4%;
+}
+  #login_btn{
+   width: 10%;
+  }
